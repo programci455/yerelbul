@@ -3,7 +3,7 @@ import {createRoot} from "react-dom/client";
 import "./style.css";
 
 const initial=[
-{id:1,name:"Pilavcı Raşit Usta",cat:"Restoran",icon:"🍗",city:"Turgutlu",desc:"Tavuk döner, pilav ve uygun fiyatlı menüler.",phone:"",featured:true,views:1280},
+{id:1,name:"Pilavcı Raşit Usta",cat:"Restoran",icon:"🍗",city:"Soma",desc:"Tavuk döner, pilav ve uygun fiyatlı menüler.",phone:"",featured:true,views:1280},
 {id:2,name:"Kahve Durağı",cat:"Kafe",icon:"☕",city:"Turgutlu",desc:"Kahve, tatlı ve keyifli çalışma alanı.",phone:"",featured:true,views:940},
 {id:3,name:"Premium Barber",cat:"Berber",icon:"💈",city:"Turgutlu",desc:"Erkek saç, sakal ve bakım hizmetleri.",phone:"",featured:false,views:620},
 {id:4,name:"Hızlı Oto Yıkama",cat:"Oto Yıkama",icon:"🚗",city:"Turgutlu",desc:"İç-dış yıkama ve detaylı temizlik.",phone:"",featured:false,views:480}
